@@ -1,0 +1,4 @@
+luka 24
+maria 22
+john 23
+Average: 23.0 MaxScore: 24
