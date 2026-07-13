@@ -6,5 +6,6 @@ This repository contains my daily progress while learning Data Science
 
 - Learn python
 - Learn SQL
-  -Learn Machine lLearning
-  -Build a portfolio
+- Learn Machine lLearning
+- Build a portfolio
+  git add.
