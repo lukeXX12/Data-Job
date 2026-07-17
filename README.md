@@ -23,7 +23,7 @@ This repository contains my daily progress while learning Data Science
 this day seems to be more interesting than last one.
 for this day, i exercised more in mumpy library and get known to basic statistic operations.
 
-# i have worked with:
+#### i have worked with:
 
 - arrays
 - Statistics
