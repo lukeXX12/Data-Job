@@ -1,0 +1,6 @@
+Average salary: 2972.7272727272725
+Maximum salary: 5400
+Minimum salary: 1100
+Salaries above 3000: [3400 4200 3900 5400]
+Salaries below average: [2200 2500 2800 1200 1100]
+Total salary: 32700
